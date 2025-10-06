@@ -11,5 +11,6 @@
 ![Aykarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aykarsh&show_icons=true&theme=tokyonight)
 <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aykarsh&repo=TrueTicket)](https://github.com/aykarsh/TrueTicket)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aykarsh&repo=Audio-Conversation-Summarizer)](https://github.com/aykarsh/Audio-Conversation-Summarizer)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykarsh)](https://github.com/aykarsh/aykarsh)
