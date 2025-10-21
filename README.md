@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on learning new things and making projects, stay tuned for more detailss :D
 - 🌱 I’m currently learning Full Stack Development and CyberSecurity
-- 📫 How to reach me: Mail : akarshnarayanan1312@gmail.com | +91 9188583218
+- 📫 How to reach me: Mail : akarshnarayanan1312@gmail.com
 - 😄 Pronouns: He/Him
 
 
