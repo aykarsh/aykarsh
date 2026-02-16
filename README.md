@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akarsh Narayanan</h1>
 <h3 align="center">A passionate Network Pentester, Ethical Hacker and a Frontend Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykarsh" alt="aykarsh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aykarsh" alt="Aykarsh" /></a> </p>
 
 - 🌱 I’m currently learning **CyberSecurity (Ethical Hacking) | Kali Linux | Express JS | Full Stack Development**
-
+  
 - 👨‍💻 All of my projects are available at [https://akarshnarayanan.vercel.app](https://akarshnarayanan.vercel.app)
 
 - 💬 Ask me about **Enumeration and Exploiting machines, FrontEnd Development**
