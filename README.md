@@ -6,9 +6,9 @@
 
 - Software Developer | API Development Intern @ **[Yalamanchilli Solutions for Payment]([https://yal](https://www.ysppayments.com/))** — Developer Growth, Strategy & Engineering for Special Projects
 
-- Coding since 2021. Built 12+ projects across DeFi, Fintech, CyberSecurity, and AI Agents.
+- Coding since 2021. Built 12+ projects across fields of DeFi, Fintech, CyberSecurity, Web3, AI Agents.
 
-- Check out my website for the full picture — **[akarsh.com](https://akarshnarayanan.vercel.app)**
+- Check out my website to know more — **[akarsh.com](https://akarshnarayanan.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
