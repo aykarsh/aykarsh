@@ -7,7 +7,7 @@
 
 - Coding since 2021. Built 12+ projects across fields of DeFi, Fintech, CyberSecurity, Web3, AI Agents.
 
-- Check out my website to know more — **[akarsh.com](https://akarshnarayanan.vercel.app)**
+- Check out my website to know more — **[Akarsh](https://akarshnarayanan.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
