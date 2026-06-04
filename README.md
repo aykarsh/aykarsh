@@ -3,7 +3,7 @@
 <h3 align="center">Engineer / Photographer / Car Enthusiast / Vocalist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aykarsh&label=Profile%20views&color=0e75b6&style=flat" alt="Aykarsh" /> </p>
 
-- Software Developer | API Development Intern @ **[Yalamanchilli Solutions for Payment]([https://yal](https://www.ysppayments.com/))** — Developer Growth, Strategy & Engineering for Special Projects
+- Ex-Software Developer | API Development Intern @ **[Yalamanchilli Solutions for Payment]([https://yal](https://www.ysppayments.com/))** — Developer Growth, Strategy & Engineering for Special Projects
 
 - Coding since 2021. Built 12+ projects across fields of DeFi, Fintech, CyberSecurity, Web3, AI Agents.
 
